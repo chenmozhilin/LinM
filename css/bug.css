@@ -1,0 +1,23 @@
+			.shuffling {
+				margin-top: 50px;
+			}							
+			.navBox,nav,footer{
+				background: #222222;
+			}
+			footer{
+				height: 50px;
+				color:white;
+				line-height: 50px;
+				margin: 10px 0 0 ;
+			}
+			.navbar-right{
+				margin-right:30px;
+			}
+			.containerinput{
+				width: 100%;
+				height: 75px;
+				line-height: 75px;
+				background: #F5F5F5;
+				text-align: center;
+			}
+			
